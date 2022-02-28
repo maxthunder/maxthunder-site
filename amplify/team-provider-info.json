@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-maxthundersite-dev-01451-authRole",
+      "UnauthRoleArn": "arn:aws:iam::446267359106:role/amplify-maxthundersite-dev-01451-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::446267359106:role/amplify-maxthundersite-dev-01451-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-maxthundersite-dev-01451-deployment",
+      "UnauthRoleName": "amplify-maxthundersite-dev-01451-unauthRole",
+      "StackName": "amplify-maxthundersite-dev-01451",
+      "StackId": "arn:aws:cloudformation:us-west-2:446267359106:stack/amplify-maxthundersite-dev-01451/210ba460-9866-11ec-80bb-06656c4eae2b",
+      "AmplifyAppId": "dc45e40vlikjt"
+    },
+    "categories": {
+      "auth": {
+        "maxthundersitefb01400c": {}
+      }
+    }
+  }
+}
